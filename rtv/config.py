@@ -250,7 +250,8 @@ class Config(object):
         config = configparser.ConfigParser()
         if os.path.exists(filename):
             with codecs.open(filename, encoding='utf-8') as fp:
-                config.readfp(fp)
+                config.read_file(fp,filename)
+
 
         return cls._parse_rtv_file(config)
 
