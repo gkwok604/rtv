@@ -1,7 +1,7 @@
 ## Update
-This is a fork of project below with fix to compile with newer pythons.
+This is a fork of RTV (README below) with a fix to compile with newer pythons.
 
-##THIS PROJECT IS NO LONGER MAINTAINED**
+## RTV IS NO LONGER MAINTAINED**
 
 - [RTV Development is Shutting Down](https://github.com/michael-lazar/rtv/issues/696)
 - [List of Alternative Projects](https://gist.github.com/michael-lazar/8c31b9f637c3b9d7fbdcbb0eebcf2b0a)
